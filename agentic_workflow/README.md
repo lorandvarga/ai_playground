@@ -27,5 +27,5 @@ cp .env.example .env
 # Edit .env and add your OpenAI API key
 
 # 5. Run the workflow
-python src/main.py
+python main.py
 ```
