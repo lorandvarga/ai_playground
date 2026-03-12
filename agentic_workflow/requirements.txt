@@ -1,0 +1,5 @@
+crewai==1.10.1
+python-dotenv==1.1.1
+openai==2.26.0
+pypdf==6.7.5
+pillow==12.1.1
