@@ -1,0 +1,8 @@
+{
+  "url": "https://jsonplaceholder.typicode.com/posts/1",
+  "method": "GET",
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "description": "Example API configuration for fetching a sample post. This can be used as a template for other REST API endpoints."
+}
